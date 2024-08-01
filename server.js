@@ -34,9 +34,8 @@ app.get('/overrides', (req, res) => {
     localizations: {
       en: {
         loginBox: {
-          signup: {
-            disclaimerCheckboxLabel: 'Acme',
-            termsLinkText: 'Terms & Conditions',
+          login: {
+            backToLogin:"" // remove the "Back to Sign-in" link 
           },
         },
       },
