@@ -10,7 +10,7 @@ This project provides a Node.js server that handles metadata overrides for custo
 
 ## Setup
 
-1. Use the Frontegg builder to achieve the desired visual style for your login box. Note down any specific adjustments you've made, such as color changes, font choices, or logo placements.
+1. Use the Frontegg builder to achieve the desired visual style for your login box, such as color changes, font choices, and logo placements.
 
 
 2. Clone this repo and Cchoose a hosting platform like Heroku or a similar service that suits your needs. Deploy your code to the chosen platform. Once deployed, obtain the publicly accessible URL of your server. It should look like https://yourserveraddress/overrides.
